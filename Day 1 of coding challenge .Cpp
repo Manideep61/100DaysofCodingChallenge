@@ -10,10 +10,8 @@ public:
         for(int i=0;i<n;i++){
 …                    return index;                   
                 }
-
             }
         }
         return index;
     }
-
 };
